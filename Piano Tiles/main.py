@@ -1,4 +1,4 @@
-# Piano Tiles
+# Piano Tiles Games
 
 # Author : Prajjwal Pathak (pyguru)
 # Date : Thursday, 30 November, 2021
