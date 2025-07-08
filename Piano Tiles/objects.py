@@ -1,6 +1,7 @@
 import pygame
 import random
 
+# *******************************************************************************
 SCREEN = WIDTH, HEIGHT = 288, 512
 TILE_WIDTH = WIDTH // 4
 TILE_HEIGHT = 130
