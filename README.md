@@ -9,11 +9,11 @@ Piano Tiles is a piano tiles musical game implementaion in python and pygame.
 ![app](https://github.com/user-attachments/assets/45b70b30-2bcc-4957-84f8-70f6ffbb4ca7)
 
 
-## How to Download
+## How to Download:
 
 Download this project from here [Download Piano Tiles](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Piano%20Tiles)
 
-## Requirements
+## Requirements:
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages 
 * Pygame
@@ -22,5 +22,5 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install followi
 pip install pygame
 ```
 
-## Author
+## Author:
 Co-authored-by: Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
